@@ -1,0 +1,11 @@
+C:\Users\Fawmu\Desktop\Practica4_Agentes\bin\Debug\Practica4_Agentes.exe.config
+C:\Users\Fawmu\Desktop\Practica4_Agentes\bin\Debug\Practica4_Agentes.exe
+C:\Users\Fawmu\Desktop\Practica4_Agentes\bin\Debug\Practica4_Agentes.pdb
+C:\Users\Fawmu\Desktop\Practica4_Agentes\obj\Debug\Practica4_Agentes.csproj.AssemblyReference.cache
+C:\Users\Fawmu\Desktop\Practica4_Agentes\obj\Debug\Practica4_Agentes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fawmu\Desktop\Practica4_Agentes\obj\Debug\Practica4_Agentes.Form1.resources
+C:\Users\Fawmu\Desktop\Practica4_Agentes\obj\Debug\Practica4_Agentes.Properties.Resources.resources
+C:\Users\Fawmu\Desktop\Practica4_Agentes\obj\Debug\Practica4_Agentes.csproj.GenerateResource.cache
+C:\Users\Fawmu\Desktop\Practica4_Agentes\obj\Debug\Practica4_Agentes.csproj.CoreCompileInputs.cache
+C:\Users\Fawmu\Desktop\Practica4_Agentes\obj\Debug\Practica4_Agentes.exe
+C:\Users\Fawmu\Desktop\Practica4_Agentes\obj\Debug\Practica4_Agentes.pdb
